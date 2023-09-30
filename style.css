@@ -196,7 +196,9 @@ body {
   text-align: center;
   font-size: 2.25rem;
 }
-
+.footer-bloc-1 {
+  width: 100%;
+}
 .footer-bloc-1 h4 {
   margin-bottom: 24px;
 }
@@ -281,7 +283,7 @@ body {
   }
   .direction {
     align-items: flex-start;
-    gap: 128px;
+    gap: 64px;
   }
   .col {
     text-align: start;
