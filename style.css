@@ -294,6 +294,9 @@ body {
   .col {
     text-align: start;
   }
+  .direction {
+    align-items: center;
+  }
   .hero3-section {
     display: flex;
     flex-direction: row;
